@@ -2,6 +2,9 @@
 Keyboard layout for early Romanian cyrillic alphabet and the revised (post-1830) versio. created in MSKLC
 (Tastatură pentru alfabetul chirilic Românesc vechi și cel revizuit (post-1830). creat în MSKLC)
 
+RCYR is the early alphabet (RCYR este alfabetul vechi)
+ReCYR is the revised alphabet (ReCYR este alfabetul revizuit)
+
 Example:
 RCYR - Крєд ꙟ Тйне, Дoамɴе, пꙋрꙋрѩ слъвите-вой. Ꙟ ѱаʌмй ѫцй кѫɴт, Амиɴ!
 
