@@ -4,18 +4,22 @@ Keyboard layout for early Romanian cyrillic alphabet and the revised (post-1830)
 
 Example:
 RCYR - Крєд ꙟ Тйне, Дoамɴе, пꙋрꙋрѩ слъвите-вой. Ꙟ ѱаʌмй ѫцй кѫɴт, Амиɴ!
+
 ReCYR - Крeд ꙟ Tiнe, Дoамнe, пꙋрꙋрia слъвiтe-вoĭ. Ꙟ псалмĭ ъцĭ кънт, Амiн!
+
 Latin - Cred în Tine, Doamne, Pururea slăvite-voi. În psalmi îți cânt, Amin!
 
+
 The keyboard has limitations due to the number of letters.
-(Tastatura are limitații din cauza numărului litelor)
+(Tastatura are limitații din cauza numărului literelor)
 
 # How to install
 Download which version you prefer, and open setup.exe
 (Descarcă ce versiune preferi, și deschide setup.exe)
 
-#How to use
+# How to use
 The keyboard is based on the QWERTY keyboard, it directly replaces the latin letter with the cyrillic equivalent. example R = Р, P = П. It is based on the Romanian(Standard) model.
+
 (Tastatura este bazată pe tastatura QWERTY, înlocuiește direct literele  latine cu echivalentul chirilic, exemplu  R = Р, P = П.. Este bazată pe modelul Romanian(Standard).)
 
 #Table of letters
