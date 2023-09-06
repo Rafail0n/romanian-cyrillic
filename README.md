@@ -1,5 +1,5 @@
 # Romanian Cyrillic Keyboard
-Keyboard layout for early Romanian cyrillic alphabet and the revised (post-1830) versio. created in MSKLC
+Keyboard layout for early Romanian cyrillic alphabet and the revised (post-1830) version. created in MSKLC
 (Tastatură pentru alfabetul chirilic Românesc vechi și cel revizuit (post-1830). creat în MSKLC)
 
 RCYR is the early alphabet (RCYR este alfabetul vechi)
