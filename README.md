@@ -5,7 +5,8 @@ Keyboard layout for early Romanian cyrillic alphabet and the revised (post-1830)
 RCYR is the early alphabet (RCYR este alfabetul vechi)
 ReCYR is the revised alphabet (ReCYR este alfabetul revizuit)
 
-Example:
+# Example
+
 RCYR - Крєд ꙟ Тйне, Дoамɴе, пꙋрꙋрѩ слъвите-вой. Ꙟ ѱаʌмй ѫцй кѫɴт, Амиɴ!
 
 ReCYR - Крeд ꙟ Tiнe, Дoамнe, пꙋрꙋрia слъвiтe-вoĭ. Ꙟ псалмĭ ъцĭ кънт, Амiн!
