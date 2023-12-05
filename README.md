@@ -7,7 +7,7 @@ ReCYR is the revised alphabet (ReCYR este alfabetul revizuit)
 
 # Example
 
-RCYR - Крєд ꙟ Тйне, Дoамɴе, пꙋрꙋрѩ слъвите-вой. Ꙟ ѱаʌмй ѫцй кѫɴт, Амиɴ!
+RCYR - Крєд ꙟ Тйɴе, Дѡамɴе, пꙋрꙋрѩ слъвите-во̀й. Ꙟ ѱаʌмй ѫцй кѫɴт, Амиɴ!
 
 ReCYR - Крeд ꙟ Tiнe, Дoамнe, пꙋрꙋрia слъвiтe-вoĭ. Ꙟ псалмĭ ъцĭ кънт, Амiн!
 
@@ -109,6 +109,18 @@ rALT + G = Џ (G înainte de E sau I)
 
 rALT + Ș = Щ 
 
+rALT + О = О
+
+rALT + A = Ѧ
+
+rALT + 1 = ̀
+
+rALT + 2 = ́
+
+rALT+ 3 = ̃
+
+rALT + 4 = ͠
+  
 rALT + Ț = ' (+ ")
 
 rALT + 5 = { 
